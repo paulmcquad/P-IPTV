@@ -107,3 +107,6 @@ https://wg.cdn.tibus.net/q102MP3128
 #EXTINF:0,Classic Hits
 #EXTVLCOPT:network-caching=1000
 https://stream.audioxi.com/CLASSIC
+#EXTINF:0,Sunshine Radio
+#EXTVLCOPT:network-caching=1000
+https://live-bauerie.sharp-stream.com/SUN
