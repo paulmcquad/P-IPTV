@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:6,TJC
+#EXTVLCOPT:network-caching=1000
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:30,Create & Craft
+#EXTVLCOPT:network-caching=1000
+https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
+#EXTINF:30,Pop Max Ⓢ
+#EXTVLCOPT:network-caching=1000
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:120,GB News
+#EXTVLCOPT:network-caching=1000
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:60,TRT World
+#EXTVLCOPT:network-caching=1000
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:60,Now 70s
+#EXTVLCOPT:network-caching=1000
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:54,Now 80s
+#EXTVLCOPT:network-caching=1000
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:60,Now Rock
+#EXTVLCOPT:network-caching=1000
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:32,BBC Radio 1
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC Radio 2
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC Radio 4
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC Radio 5 Live
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC Radio 6 Music
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC Radio 1Xtra
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC Radio 4 Extra
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC Asian Network
+#EXTVLCOPT:network-caching=1000
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
+#EXTINF:32,BBC World Service
+#EXTVLCOPT:network-caching=1000
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:46072,TG4
+#EXTVLCOPT:network-caching=1000
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:99,Houses of the Oireachtas Channel
+#EXTVLCOPT:network-caching=1000
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
