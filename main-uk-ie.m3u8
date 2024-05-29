@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:60,Now Rock
+#EXTVLCOPT:network-caching=1000
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:60,Now 70s
+#EXTVLCOPT:network-caching=1000
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:54,Now 80s
+#EXTVLCOPT:network-caching=1000
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:6,TJC
 #EXTVLCOPT:network-caching=1000
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
@@ -14,15 +23,6 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:60,TRT World
 #EXTVLCOPT:network-caching=1000
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:60,Now 70s
-#EXTVLCOPT:network-caching=1000
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:54,Now 80s
-#EXTVLCOPT:network-caching=1000
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:60,Now Rock
-#EXTVLCOPT:network-caching=1000
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:32,BBC Radio 1
 #EXTVLCOPT:network-caching=1000
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
@@ -83,3 +83,27 @@ https://av.rasset.ie/av/live/radio/gold.m3u
 #EXTINF:0,RTÉ Junior
 #EXTVLCOPT:network-caching=1000
 https://av.rasset.ie/av/live/radio/junior.m3u
+#EXTINF:0,Today FM
+#EXTVLCOPT:network-caching=1000
+https://stream.audioxi.com/TDAAC
+#EXTINF:0,98FM
+#EXTVLCOPT:network-caching=1000
+https://stream.audioxi.com/98
+#EXTINF:0,FM104
+#EXTVLCOPT:network-caching=1000
+https://wg.cdn.tibus.net/fm104MP3128
+#EXTINF:0,Radio Nova
+#EXTVLCOPT:network-caching=1000
+https://stream.audioxi.com/NOVA
+#EXTINF:0,Spin 103.8
+#EXTVLCOPT:network-caching=1000
+https://stream.audioxi.com/SP
+#EXTINF:0,Newstalk
+#EXTVLCOPT:network-caching=1000
+https://stream.audioxi.com/NT
+#EXTINF:0,Q102
+#EXTVLCOPT:network-caching=1000
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:0,Classic Hits
+#EXTVLCOPT:network-caching=1000
+https://stream.audioxi.com/CLASSIC
