@@ -56,3 +56,30 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:99,Houses of the Oireachtas Channel
 #EXTVLCOPT:network-caching=1000
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:29,RTÉ Radio 1
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/radio1.m3u
+#EXTINF:29,RTÉ Radio 1 Extra
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/radio1extra.m3u
+#EXTINF:0,RTÉ 2FM
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/2fm.m3u
+#EXTINF:0,RTÉ Raidió na Gaeltachta
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/rnag.m3u
+#EXTINF:0,RTÉ Lyric FM
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/lyric.m3u
+#EXTINF:0,RTÉ 2XM
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/2xm.m3u
+#EXTINF:0,RTÉ Pulse
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/pulse.m3u
+#EXTINF:0,RTÉ Gold
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/gold.m3u
+#EXTINF:0,RTÉ Junior
+#EXTVLCOPT:network-caching=1000
+https://av.rasset.ie/av/live/radio/junior.m3u
