@@ -110,3 +110,12 @@ https://stream.audioxi.com/CLASSIC
 #EXTINF:0,Sunshine Radio
 #EXTVLCOPT:network-caching=1000
 https://live-bauerie.sharp-stream.com/SUN
+#EXTINF:60,Bloomberg TV Europe (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:60,Bloomberg Manifest
+#EXTVLCOPT:network-caching=1000
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:60,EuroNews Live
+#EXTVLCOPT:network-caching=1000
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
