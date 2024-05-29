@@ -8,6 +8,15 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:54,Now 80s
 #EXTVLCOPT:network-caching=1000
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:60,MTV Biggest Pop
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:60,Kronehit
+#EXTVLCOPT:network-caching=1000
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:60,PBS Kids
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:6,TJC
 #EXTVLCOPT:network-caching=1000
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
@@ -17,6 +26,9 @@ https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
 #EXTINF:30,Pop Max Ⓢ
 #EXTVLCOPT:network-caching=1000
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:30,BBC World News (480p)
+#EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:120,GB News
 #EXTVLCOPT:network-caching=1000
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
@@ -119,3 +131,15 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:60,EuroNews Live
 #EXTVLCOPT:network-caching=1000
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+#EXTINF:60,FOX News Now (720p)
+#EXTVLCOPT:network-caching=1000
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:60,InfoWars
+#EXTVLCOPT:network-caching=1000
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:60,Yahoo! Finance (1080p)
+#EXTVLCOPT:network-caching=1000
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:60,Playboy HD (160p)
+#EXTVLCOPT:network-caching=1000
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
